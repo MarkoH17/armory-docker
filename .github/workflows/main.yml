@@ -30,4 +30,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: depthsecurity/armory:latest
+          tags: mhedrickdepth/armory-build-test:latest
